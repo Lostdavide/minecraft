@@ -1,0 +1,24 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "snow_silverfish",
+		"description": "snow_silverfish Resource Pack",
+		"uuid": "7defd5dd-e3e8-fedf-e20e-7f8d8684be63",
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 16, 0]
+	},
+	"metadata": {
+		"authors": ["selith"],
+		"generated_with": {
+			"blockbench_entity_wizard": ["1.4.0"]
+		}
+	},
+	"modules": [
+		{
+			"description": "snow_silverfish",
+			"type": "resources",
+			"uuid": "1bb5f49b-bf63-4bfc-5ca5-855e122d4ffd",
+			"version": [1, 0, 0]
+		}
+	]
+}

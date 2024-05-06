@@ -1,0 +1,30 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "snow_silverfish",
+		"description": "snow_silverfish Behavior Pack",
+		"uuid": "3a2ca766-f388-40ac-b1ed-3894d9954cfb",
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 16, 0]
+	},
+	"metadata": {
+		"authors": ["selith"],
+		"generated_with": {
+			"blockbench_entity_wizard": ["1.4.0"]
+		}
+	},
+	"modules": [
+		{
+			"description": "Behavior",
+			"version": [1, 0, 0],
+			"uuid": "a57540a8-1b0d-7028-d4e5-f768e6992e0e",
+			"type": "data"
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "7defd5dd-e3e8-fedf-e20e-7f8d8684be63",
+			"version": [1, 0, 0]
+		}
+	]
+}
