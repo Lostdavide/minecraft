@@ -1,0 +1,21 @@
+{
+    "format_version": "1.21.80",
+    "minecraft:block": {
+      "description": {
+        "identifier": "minecraft:snow",
+        "is_experimental": false,
+        "register_to_creative_menu": true
+      },
+      "events": {
+        "on_destroy": {
+          "event": "minecraft:spawn_mob",
+          "target": "selith:snow_silverfish",
+          "spawn_event": {
+            "event": "minecraft:entity_born",
+            "target": "self"
+          }
+        }
+      }
+    }
+  }
+  
